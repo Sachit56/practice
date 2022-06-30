@@ -1,51 +1,4 @@
-<<<<<<< HEAD
 
-
-body{
-
-    margin: 10px;
-    padding:20px;
-    border-top: 30px;
-    border-color:black;
-    border-radius:5px;
-
-    background-color:blue;
-    text-shadow:1px;
-    background-image:url("https://www.denofgeek.com/wp-content/uploads/2021/02/robert-pattinson-the-batman-dc-warner.jpg?resize=768%2C432");
-    background-size: cover;
-
-}
-
-#new{
-    border:1px solid;
-    border-color: black;
-    text-decoration:none ;
-}
-
-.and{
-    position:relative;
-    background-position: center;
-
-    text-align:center ;
-}
-
-#fo{
-    text-decoration:none ;
-    font-size: 14px;
-    text-shadow: 1px 1px;
-
-}
-
-.b{
-    height: 90px;
-    width:90px;
-    background-color: aqua;
-    border-color: black;
-    
-}
-
-
-=======
 *{
     padding: 0px;
     margin: 0px;
@@ -88,6 +41,7 @@ nav ul li{
     text-decoration:none;
     font-weight: bold;
     text-transform: capitalize;
+    font-size: 25px;
 
 
 
@@ -183,4 +137,4 @@ h2{
 
 
 
->>>>>>> 4fefcde (Initial)
+
